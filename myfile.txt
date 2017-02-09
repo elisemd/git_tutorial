@@ -1,1 +1,1 @@
-new branch mybranch
+new branch
